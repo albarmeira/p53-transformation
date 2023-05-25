@@ -10,6 +10,3 @@ Any queries related to the dataset or the scripts should be directed to:
 
 albarmeira@gmail.com
 sean.wenwx@gmail.com
-
-![image](https://github.com/albarmeira/p53-transformation/assets/32486992/f1007502-3a9e-46bb-a76c-a4f8bf863266)
-
