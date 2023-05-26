@@ -1,0 +1,3 @@
+﻿index,sample_id,computed_gender,chrom,start,end,size,p_arm,q_arm,n_sites,n_hets,n50_hets,n_flips,baf_conc,lod_baf_conc,type,cf
+1,IF9118_BL,F,17,0,10223714,10223714,T,N,2790,774,6866,27,0.9206,135.31,CN-LOH,0.1203
+2,IF9184_BL-08FV381,F,17,0,19989218,19989218,T,N,5081,1397,7345,40,0.8013,108.59,Gain,0.1416
