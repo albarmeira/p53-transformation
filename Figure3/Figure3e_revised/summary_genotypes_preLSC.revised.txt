@@ -1,0 +1,12 @@
+"Var1"	"Freq"
+"1"	"CALRtype2"	105
+"2"	"JAK2"	43
+"3"	"JAK2_TET2"	2
+"4"	"JAK2HOM"	112
+"5"	"JAK2HOM_TET2"	3
+"6"	"TET2"	8
+"7"	"TET2_CALRtype2"	69
+"8"	"TET2_JAK2"	122
+"9"	"U2AF1"	5
+"10"	"U2AF1_JAK2"	63
+"11"	"WT"	348

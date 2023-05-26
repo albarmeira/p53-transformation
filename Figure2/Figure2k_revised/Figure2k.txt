@@ -1,0 +1,2 @@
+51 genes before lasso regression
+44 genes after lasso regression
