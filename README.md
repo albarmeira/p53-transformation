@@ -1,4 +1,5 @@
-#Single-Cell Multi-Omic Analysis of TP53-mutant leukemic transformation ![image](https://github.com/albarmeira/p53-transformation/assets/32486992/c3e0a805-c345-41e1-a2ac-6906aaabeb0c)
+**Single-Cell Multi-Omic Analysis of TP53-mutant leukemic transformation**
+![image](https://github.com/albarmeira/p53-transformation/assets/32486992/c3e0a805-c345-41e1-a2ac-6906aaabeb0c)
 
 This repository contains per-figure scripts to regenerate the data presented in Rodriguez-Meira, Norfo, Wen, Chedeville et al, Nature Genetics 2023.
 
