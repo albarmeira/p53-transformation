@@ -1,3 +1,0 @@
-Main files for this repository: https://zenodo.org/record/8038152
-
-Source folder (as indicated in the paths of some scripts): https://zenodo.org/record/8037319
