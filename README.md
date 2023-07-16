@@ -1,6 +1,6 @@
-# **Single-Cell Multi-Omic Analysis of _TP53_-mutant leukemic transformation**
+# **Single-Cell Multi-Omic Analysis of _TP53_-mutant leukemic evolution**
 
-This repository contains pre-processing and per-figure scripts to regenerate the data presented in Rodriguez-Meira, Norfo, Wen, Chedeville _et al_, Nature Genetics, 2023.
+This repository contains pre-processing and per-figure scripts to regenerate the data presented in Rodriguez-Meira, Norfo, Wen, Chedeville _et al_, Single-Cell Multi-Omics Identifies Chronic Inflammation as a Driver of _TP53_ mutant Leukaemic Evolution, 2023.
 
 The single-cell multi-omic dataset was generated using the TARGET-seq protocol (Rodriguez-Meira _et al_, 2019; Rodriguez-Meira _et al_, 2020) and analyzed using the SingCellaR framework (https://github.com/supatt-lab/SingCellaR) for most of the figures.
 
